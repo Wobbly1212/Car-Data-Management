@@ -40,4 +40,4 @@ Contributions are welcome! Feel free to fork this repository, open issues, or su
 
 ## 📜 License
 
-This project is released under the [MIT License](LICENSE). You’re free to modify and distribute it as needed.
+You’re free to modify and distribute it as needed.
