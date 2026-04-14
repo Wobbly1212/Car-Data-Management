@@ -1,43 +1,53 @@
-# 🚗 Car and Car Owner Data Management
+# Car and Owner Data Management
 
-Welcome to a beginner-friendly Python project for managing car and owner data!  
-All details are in the **Car and Car Owner Data Management.docx** (inside the docs file), and you can refer to the flowcharts (**function 1_flowchart.pdf**, **function 2_flowchart.pdf**, and **function 5 (Main)_flowchart.pdf**) for a clear visual guide.
+A beginner-friendly Python project for managing car and owner information using tuples, lists, and dictionaries. Includes data entry, storage, and search functionality by `Car_ID`.
 
-## 🚀 Project Overview
+## What It Does
 
-1. **User Input**: Prompt for car and owner details (IDs, names, phone numbers, etc.).
-2. **Data Structures**: Store information in tuples, lists, and dictionaries.
-3. **Search Feature**: Quickly find an owner by entering a `Car_ID`.
-4. **Results Display**: Print the relevant owner details and any other requested data.
+1. **User Input** — Prompts for car and owner details (IDs, names, phone numbers)
+2. **Data Storage** — Stores information using tuples, lists, and dictionaries
+3. **Search** — Find an owner by entering a `Car_ID`
+4. **Display** — Prints relevant owner details and requested data
 
-## 📁 File Structure
+## Getting Started
 
-- **Car and Car Owner Data Management.docx**  
-  A complete assignment description, explaining each function and requirement.
+### Prerequisites
 
-- **function 1_flowchart.pdf**  
-  Visual guide for creating a car tuple.
+- Python 3.6+
 
-- **function 2_flowchart.pdf**  
-  Shows how to create a car owner tuple.
+### Installation
 
-- **function 5 (Main)_flowchart.pdf**  
-  Depicts the main program’s flow, including user interaction and function calls.
+```bash
+git clone https://github.com/Wobbly1212/Car-Data-Management.git
+cd Car-Data-Management
+```
 
-- **CarPark.py**  
-  The final code implementation, combining all the functions.
+### Running
 
-## ⚙️ Getting Started
+```bash
+python car_park.py
+```
 
-1. **Clone or Download** this repository.  
-2. **Review** the `.docx` file and flowcharts in the docs folder to understand the requirements.  
-3. **Run** `CarPark.py` (Python 3.x recommended).  
-4. **Follow** the on-screen prompts to input data and test the search functionality.
+Follow the on-screen prompts to input data and test the search functionality.
 
-## 🤝 Contributing
+## Project Structure
 
-Contributions are welcome! Feel free to fork this repository, open issues, or submit pull requests to add features or suggest improvements.
+```
+Car-Data-Management/
+├── car_park.py                        # Main program
+├── docs/
+│   ├── assignment_description.docx    # Full assignment spec
+│   ├── flowchart_create_car.pdf       # Function 1 flowchart
+│   ├── flowchart_create_owner.pdf     # Function 2 flowchart
+│   └── flowchart_main.pdf            # Main program flowchart
+├── LICENSE
+└── README.md
+```
 
-## 📜 License
+## Author
 
-You’re free to modify and distribute it as needed.
+**Diako Darabi**
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
