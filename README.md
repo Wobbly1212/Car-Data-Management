@@ -2,6 +2,8 @@
 
 A beginner-friendly Python project for managing car and owner information using tuples, lists, and dictionaries. Includes data entry, storage, and search functionality by `Car_ID`.
 
+> **Scope:** an early Python-fundamentals exercise — core data structures and control flow, no external libraries. Kept in the portfolio to show progression from first principles.
+
 ## What It Does
 
 1. **User Input** — Prompts for car and owner details (IDs, names, phone numbers)
